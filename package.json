@@ -14,11 +14,8 @@
   "category": "Text Rendering",
   "dependencies": {},
   "repository": {
-    "url": "https://github.cds.internal.unity3d.com/unity/com.unity.textmeshpro.git",
+    "url": "https://github.com/FingerCaster/TextmeshPro.git",
     "type": "git",
-    "revision": "81393a2b3dd22544a1c53a4d88ec78727d3ebf26"
-  },
-  "upmCi": {
-    "footprint": "12b6c6ccdc95115b75b78962e8490b61bd79ba91"
+    "revision": "d601613115967b81a6b4987954a4dded86579372 "
   }
 }
