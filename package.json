@@ -13,9 +13,4 @@
   ],
   "category": "Text Rendering",
   "dependencies": {},
-  "repository": {
-    "url": "https://github.com/FingerCaster/TextmeshPro.git",
-    "type": "git",
-    "revision": "d601613115967b81a6b4987954a4dded86579372 "
-  }
 }
